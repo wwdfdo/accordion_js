@@ -210,7 +210,7 @@ Questions
 .question-title p {
   margin-bottom: 0;
   letter-spacing: var(--spacing);
-  color: var(--clr-grey-1);
+  color: red;
 }
 .question-btn {
   font-size: 1.5rem;
